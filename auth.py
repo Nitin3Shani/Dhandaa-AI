@@ -62,7 +62,7 @@ def register_user(username, password, business_name, business_type):
 
 def show_login_page():
     """Display login and registration page"""
-    st.title("🏪 ShopInsight Pro")
+    st.title("🏪 Dhandaa AI")
     st.subheader("Business Analytics & Management Platform")
     
     tab1, tab2 = st.tabs(["Login", "Register"])
